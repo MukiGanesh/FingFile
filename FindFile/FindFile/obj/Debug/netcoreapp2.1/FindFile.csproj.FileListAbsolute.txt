@@ -1,0 +1,11 @@
+D:\Mukila\FindFile\FindFile\obj\Debug\netcoreapp2.1\FindFile.csprojAssemblyReference.cache
+D:\Mukila\FindFile\FindFile\obj\Debug\netcoreapp2.1\FindFile.csproj.CoreCompileInputs.cache
+D:\Mukila\FindFile\FindFile\obj\Debug\netcoreapp2.1\FindFile.AssemblyInfoInputs.cache
+D:\Mukila\FindFile\FindFile\obj\Debug\netcoreapp2.1\FindFile.AssemblyInfo.cs
+D:\Mukila\FindFile\FindFile\bin\Debug\netcoreapp2.1\FindFile.deps.json
+D:\Mukila\FindFile\FindFile\bin\Debug\netcoreapp2.1\FindFile.runtimeconfig.json
+D:\Mukila\FindFile\FindFile\bin\Debug\netcoreapp2.1\FindFile.runtimeconfig.dev.json
+D:\Mukila\FindFile\FindFile\bin\Debug\netcoreapp2.1\FindFile.dll
+D:\Mukila\FindFile\FindFile\bin\Debug\netcoreapp2.1\FindFile.pdb
+D:\Mukila\FindFile\FindFile\obj\Debug\netcoreapp2.1\FindFile.dll
+D:\Mukila\FindFile\FindFile\obj\Debug\netcoreapp2.1\FindFile.pdb
